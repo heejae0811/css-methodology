@@ -1,0 +1,21 @@
+.wrap { padding: 0 20px; }
+
+.inner { max-width: 1400px; margin: 0 auto; }
+
+.main .our-services { padding: 120px 20px; background-color: #ddd; }
+
+.main .our-services .inner .text-area h2 { margin-bottom: 30px; color: #444; font-size: 56px; font-weight: 700; }
+
+.main .our-services .inner .text-area p { font-size: 18px; line-height: 28px; }
+
+.main .our-services .inner ul { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; -webkit-box-align: start; -ms-flex-align: start; align-items: start; margin: 0; padding: 0; }
+
+.main .our-services .inner ul li { width: calc(25% - 30px); list-style: none; }
+
+.main .our-services .inner ul li .image-area { margin-bottom: 20px; }
+
+.main .our-services .inner ul li .image-area img { display: block; width: 100%; }
+
+.main .our-services .inner ul li .text-area dl dt { margin-bottom: 20px; color: #444; font-size: 24px; font-weight: 700; line-height: 32px; }
+
+.main .our-services .inner ul li .text-area dl dd { margin: 0; color: #444; font-size: 18px; line-height: 28px; }
